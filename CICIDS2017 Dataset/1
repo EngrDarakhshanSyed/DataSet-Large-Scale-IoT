@@ -1,1 +1,5 @@
-
+The Canadian Institute of Cybersecurity (CIC) has created the CICIDS2017 data set which is one of the most popular
+benchmarks sets for testing Intrusion Detection Systems (IDS) in traditional network environments. 
+It was designed to overcome the drawbacks of previous datasets (KDD'99, NSL-KDD) by adding realistic background network traffic and 
+contemporary cyber attack scenarios. The dataset is made up of 5 days of normal and malicious network traffic with different categories of
+attacks such as Distributed Denial of Service (DDoS), Brute Force Attacks, Infiltration, Web Based Attacks, and Botnet activity. 
